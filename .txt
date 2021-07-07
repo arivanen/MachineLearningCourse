@@ -1,0 +1,2 @@
+Notes and codes in .ipynb
+Only for educational porposes
